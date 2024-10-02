@@ -1,0 +1,881 @@
+.banhead span {
+    font-size: 102px;
+    line-height: 1;
+}
+
+@media only screen and (max-width: 430px) {
+    .banhead span {
+        font-size: 45px;
+    }
+}
+
+.banhead h1 {
+    font-size: 50px;
+    line-height: 1;
+
+}
+
+@media only screen and (max-width: 430px) {
+    .banhead h1 {
+        font-size: 43px;
+    }
+}
+
+@media only screen and (max-width: 430px) {
+    .weund {
+        text-align: center;
+
+    }
+}
+
+@media only screen and (max-width: 430px) {
+    .Trustpilot {
+        padding-bottom: 0px;
+
+    }
+}
+
+
+
+
+.banbutton {
+    background-color: rgb(125, 252, 125);
+    border-radius: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.star {
+    color: rgb(10, 211, 131);
+    font-size: 22px;
+}
+
+.star2 {
+    color: rgb(244, 203, 38);
+
+}
+
+.but2ban {
+    display: block;
+    margin-top: 30px;
+    border-radius: 20px;
+
+}
+
+.famc {
+    transform: rotate(-12deg);
+}
+
+.famc2 {
+    transform: rotate(15deg);
+}
+
+@media only screen and (max-width: 430px) {
+    .famc {
+        transform: rotate(-9deg);
+
+    }
+}
+
+
+@media only screen and (max-width: 430px) {
+    .famc2 {
+        transform: rotate(7deg);
+
+    }
+}
+
+@media only screen and (max-width: 430px) {
+    .but2ban {
+        display: block;
+        margin-top: auto;
+        margin-top: 15px;
+        margin-left: 22%;
+
+    }
+}
+
+.bannersection {
+    background-color: rgb(9, 115, 76);
+}
+
+@media only screen and (max-width: 430px) {
+    .bannersection {
+        padding-bottom: 70px;
+    }
+}
+
+
+/* tablet device */
+@media (min-width: 431px) and (max-width: 850px) {
+    .banimg {
+
+        display: none;
+    }
+}
+
+@media (min-width: 431px) and (max-width: 850px) {
+    .banhead span {
+
+        font-size: 70px;
+    }
+}
+
+@media (min-width: 431px) and (max-width: 850px) {
+    .banhead h1 {
+
+        font-size: 35px;
+    }
+}
+
+/* use  */
+@media (min-width: 431px) and (max-width: 850px) {
+    .bannersection {
+        padding-bottom: 60px;
+    }
+}
+
+
+.banimg {
+    height: 450px;
+    width: 410px;
+}
+
+.allservice {
+    color: rgb(125, 252, 125);
+}
+
+@media only screen and (max-width: 430px) {
+    .allservice {
+        display: none;
+
+    }
+}
+
+/* Area Of Expertise Section */
+
+.trauma {
+    background-color: rgb(125, 252, 125);
+    border-radius: 20px;
+    border: 2px solid rgb(169, 169, 169);
+
+}
+
+
+/* case studies */
+
+.casestudybtn {
+    border-radius: 20px;
+    padding: 10px 15px 10px 15px;
+}
+
+@media only screen and (max-width: 430px) {
+    .casestudybtn {
+        display: block;
+        margin: auto;
+    }
+}
+
+.caseimg {
+    height: 230px;
+    width: 450px;
+    z-index: -1;
+    border-radius: 20px;
+}
+
+
+
+.casebtn {
+    background-color: rgb(125, 252, 125);
+    margin-left: 130px;
+    margin-bottom: 15px;
+    margin-top: -5px;
+    display: inline-block;
+    border-radius: 12px;
+
+}
+
+@media only screen and (max-width: 430px) {
+    .casebtn {
+
+        margin-left: 80px;
+
+
+    }
+}
+
+@media only screen and (max-width: 430px) {
+    .lovesecond {
+
+        display: flex;
+        flex-direction: column-reverse;
+
+
+    }
+}
+
+
+
+
+/* tablet device */
+@media (min-width: 431px) and (max-width: 850px) {
+    .casebtn {
+
+        margin-left: 482px;
+    }
+}
+
+/* tablet device */
+@media (min-width: 431px) and (max-width: 850px) {
+    .nustadiv {
+
+        margin-bottom: 70px;
+    }
+}
+
+/* tablet device */
+@media (min-width: 431px) and (max-width: 850px) {
+    .vapar {
+
+        font-size: 10px;
+    }
+}
+
+.casestu {
+    display: inline-block;
+}
+
+.casepara {
+    background-color: rgb(47, 72, 63);
+    border-radius: 24px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-top: 10px;
+    z-index: 1;
+    margin-top: -8px;
+}
+
+.arubha {
+    color: rgb(0, 0, 0);
+    font-weight: 800;
+}
+
+.casestudysection {
+    background-color: rgb(9, 115, 76);
+    padding-top: 80px;
+    padding-bottom: 120px;
+}
+
+/* love we got from our clients */
+
+.lovepara {
+    line-height: 1.1;
+    font-weight: 700;
+    font-size: 48px;
+}
+
+
+
+
+.loveleftbtn {
+    border-radius: 50%;
+    border: 2px solid rgb(198, 198, 198);
+    margin-right: 5px;
+    display: inline-block;
+}
+
+.loverightbtn {
+    border-radius: 50%;
+    border: 2px solid rgb(23, 23, 23);
+    margin-right: 10px;
+    display: inline-block;
+
+}
+
+.lovestar {
+    color: rgb(234, 192, 26);
+}
+
+.lovestar1 {
+    color: rgb(234, 192, 26);
+    margin-top: 20px;
+}
+
+.video {
+    border-radius: 20px;
+}
+
+
+
+.lovebtn {
+    border-radius: 20px;
+    margin-right: 7px;
+    margin-bottom: 20px;
+    display: inline-block;
+    padding: 8px 14px 8px 14px;
+}
+
+
+/* Get Treatment From Our Specialist */
+
+.Treatment {
+    font-size: 45px;
+    font-weight: 700;
+    margin-left: 25px;
+}
+
+@media only screen and (max-width: 430px) {
+    .Treatment {
+
+
+        margin-left: 25px;
+        font-size: 30px;
+        margin-bottom: 20px;
+
+
+
+
+    }
+}
+
+.bookappbtn {
+    background-color: rgb(9, 115, 76);
+    color: rgb(254, 255, 254);
+    border-radius: 20px;
+    padding: 10px 18px 10px 18px;
+    margin-top: 28px;
+}
+
+@media only screen and (max-width: 430px) {
+    .bookappbtn {
+        display: block;
+        margin: auto;
+
+    }
+}
+
+
+.specialist {
+    background-image: url('women_Formal1.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* background-position: center; */
+    height: 300px;
+    border-radius: 20px;
+
+}
+
+.specialist2 {
+    background-image: url('ArmyGreen.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: cover;
+    height: 300px;
+    border-radius: 20px;
+
+}
+
+
+.specialist3 {
+    background-image: url('women-formal2.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: contain;
+    height: 300px;
+    border-radius: 20px;
+
+}
+
+.specialist4 {
+    background-image: url('women4.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* background-position: cover; */
+    height: 300px;
+    border-radius: 20px;
+
+}
+
+
+.speheading {
+    padding-top: 240px;
+}
+
+.treatsection {
+    background-color: rgb(125, 252, 125);
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+/* Train Your Mind With Us  */
+
+.tranmind {
+    font-size: 50px;
+    font-weight: 700;
+}
+
+@media only screen and (max-width: 430px) {
+    .tranmind {
+        font-size: 35px;
+    }
+}
+
+@media only screen and (max-width: 430px) {
+    .trainmindbtn {
+        display: none;
+    }
+}
+
+.mindpara {
+    display: inline-block;
+    font-weight: 600;
+}
+
+@media only screen and (max-width: 430px) {
+    .mindpara {
+        font-size: 11px;
+    }
+}
+
+/* tablet device */
+@media (min-width: 431px) and (max-width: 850px) {
+    .mind {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+}
+
+.mindtn {
+    display: inline-block;
+    background-color: rgb(9, 115, 76);
+    border-radius: 15px;
+    color: rgb(255, 255, 255);
+    margin-left: 10px;
+    margin-top: -25px;
+}
+
+/* tablet device */
+/* @media  (min-width: 431px) and (max-width: 850px) {
+    .mindtn {
+        
+        
+
+    }
+} */
+
+.mind {
+    background-color: rgb(125, 252, 125);
+    padding: 12px;
+    margin: 20px 20px 20px 20px;
+    border-radius: 20px;
+    margin-top: 80px;
+}
+
+@media only screen and (max-width: 430px) {
+    .mind {
+        padding: 10px 10px 0px 10px;
+        /* display: flex;
+         justify-content: space-evenly;
+         align-items: center; */
+
+    }
+}
+
+
+@media only screen and (max-width: 430px) {
+    .mindtn {
+        margin-left: 180px;
+        margin-top: -95px;
+    }
+}
+
+.bigmind {
+    background-image: url('depwomen1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: cover;
+    height: 330px;
+    border-radius: 20px;
+
+}
+
+.bigmind2 {
+    background-image: url('depwomen2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: cover;
+    height: 330px;
+    border-radius: 20px;
+
+}
+
+.bigmind3 {
+    background-image: url('depwomen3.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: cover;
+    height: 330px;
+    border-radius: 20px;
+
+}
+
+
+.joy {
+    color: rgba(173, 173, 35, 0);
+    margin-bottom: 187px;
+}
+
+@media only screen and (max-width: 430px) {
+    .joy {
+        margin-bottom: 198px;
+
+    }
+}
+
+.trainurmind {
+    padding-top: 75px;
+    padding-bottom: 75px;
+}
+
+.footerheading {
+    font-weight: 700;
+}
+
+@media only screen and (max-width: 430px) {
+    .footerheading {
+        font-size: 21px;
+    }
+
+}
+
+.footpara {
+    font-weight: 600;
+
+}
+
+@media only screen and (max-width: 430px) {
+    .footpara {
+        font-size: 13px;
+    }
+
+}
+
+@media only screen and (max-width: 430px) {
+    .footertags {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+        margin-bottom: 20px;
+    }
+
+}
+
+.footemail {
+    border-radius: 20px;
+    padding: 8px 15px 8px 35px;
+    border: 2px solid rgba(230, 212, 212, 0.461);
+    /* margin-left: 70px; */
+    margin-top: 30px;
+}
+
+.footbtn {
+    border-radius: 20px;
+    padding: 10px 20px 10px 20px;
+    background-color: rgb(125, 252, 125);
+    margin-top: -5px;
+    margin-left: -60px;
+}
+
+.footbtn:hover {
+    background-color: rgb(88, 254, 88);
+}
+
+.footanch {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+.footbtn1 {
+    padding: 8px 12px;
+    /* margin-right: 70px; */
+    margin-right: 10px;
+    background-color: rgba(64, 145, 115, 0.744);
+    border-radius: 50%;
+}
+
+/* tablet device */
+@media (min-width: 431px) and (max-width: 850px) {
+    .footbtn1 {
+
+        margin-top: 20px;
+    }
+}
+
+.footersection {
+    padding-top: 70px;
+    padding-bottom: 20px;
+    background-color: rgb(9, 115, 76);
+}
+
+.footcon {
+    color: rgb(255, 255, 255);
+}
+
+.markq {
+    margin-right: 30px;
+}
+
+/* navbar */
+
+@media(max-width:991px) {
+    .sidebar {
+        background-color: rgba(35, 28, 28, 0.76);
+        backdrop-filter: blur(10px);
+    }
+}
+
+
+.navbutton {
+    border: 1px solid rgb(125, 252, 125);
+    color: rgb(125, 252, 125);
+    padding: 8px 15px 8px 15px;
+    border-radius: 20px;
+    display: block;
+    margin: auto;
+}
+
+/* case study  */
+
+.casekdiv {
+
+    background-image: url('depressed1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 300px;
+    border-radius: 20px;
+
+}
+
+@media only screen and (max-width: 430px) {
+    .nustadiv {
+        margin-bottom: 50px;
+    }
+}
+
+.casekdiv2 {
+
+    background-image: url('depressed2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 300px;
+    border-radius: 20px;
+
+}
+
+.casekdiv3 {
+
+    background-image: url('depressed30.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 300px;
+    border-radius: 20px;
+
+}
+
+.hagimaru {
+    color: rgba(35, 105, 105, 0);
+    padding-top: 210px;
+}
+
+.casehead1 {
+    font-size: 45px;
+}
+
+@media only screen and (max-width: 430px) {
+    .casehead1 {
+
+
+        margin-bottom: 30px;
+
+
+    }
+}
+
+@media only screen and (max-width: 430px) {
+    .banimg {
+
+
+        display: none;
+
+
+    }
+}
+
+.trauma1 {
+
+    transition: background-image 0.3s ease;
+
+}
+
+.trauma1:hover {
+    /* background: url("depwomen1.jpg"); */
+    background-image: url("depwomen2.jpg");
+    background-size: cover;
+    background-position: contain;
+    background-repeat: no-repeat;
+    color: rgb(255, 255, 255);
+
+
+
+}
+
+.trauma2 {
+
+    transition: background-image 0.3s ease;
+
+}
+
+.trauma2:hover {
+    /* background: url("depwomen1.jpg"); */
+    background-image: url("trauma2.jpg");
+    background-size: cover;
+    background-position: contain;
+    background-repeat: no-repeat;
+    color: rgb(255, 255, 255);
+
+
+}
+
+.trauma3 {
+
+    transition: background-image 0.3s ease;
+
+}
+
+.trauma3:hover {
+    /* background: url("depwomen1.jpg"); */
+    background-image: url("3la.jpg");
+    background-size: cover;
+    background-position: contain;
+    background-repeat: no-repeat;
+    color: rgb(255, 255, 255);
+
+
+}
+
+.trauma4 {
+
+    transition: background-image 0.3s ease;
+
+}
+
+.trauma4:hover {
+    /* background: url("depwomen1.jpg"); */
+    background-image: url("autism11.jpg");
+    background-size: cover;
+    background-position: cover;
+    background-repeat: no-repeat;
+    color: rgb(255, 255, 255);
+
+
+}
+
+.trauma5 {
+
+    transition: background-image 0.3s ease;
+
+}
+
+.trauma5:hover {
+    /* background: url("depwomen1.jpg"); */
+    background-image: url("ltr.jpg");
+    background-size: cover;
+    background-position: cover;
+    background-repeat: no-repeat;
+    color: rgb(255, 255, 255);
+
+
+}
+
+.trauma6 {
+
+    transition: background-image 0.3s ease;
+
+}
+
+.trauma6:hover {
+    /* background: url("depwomen1.jpg"); */
+    background-image: url("depwomen3.jpg");
+    background-size: cover;
+    background-position: cover;
+    background-repeat: no-repeat;
+    color: rgb(255, 255, 255);
+
+
+}
+
+.trauma7 {
+
+    transition: background-image 0.3s ease;
+
+}
+
+.trauma7:hover {
+    /* background: url("depwomen1.jpg"); */
+    background-image: url("parent1.jpg");
+    background-size: cover;
+    background-position: cover;
+    background-repeat: no-repeat;
+    color: rgb(255, 255, 255);
+
+
+}
+
+.trauma8 {
+
+    transition: background-image 0.3s ease;
+
+}
+
+.trauma8:hover {
+    /* background: url("depwomen1.jpg"); */
+    background-image: url("ocdc.jpg");
+    background-size: cover;
+    background-position: contain;
+    background-repeat: no-repeat;
+    color: rgb(255, 255, 255);
+
+
+}
+
+
+.trauma9 {
+
+    transition: background-image 0.3s ease;
+
+}
+
+.trauma9:hover {
+    /* background: url("depwomen1.jpg"); */
+    background-image: url("adhd.jpg");
+    background-size: cover;
+    background-position: contain;
+    background-repeat: no-repeat;
+    color: rgb(255, 255, 255);
+
+
+}
+
+/* tablet device */
+@media (min-width: 431px) and (max-width: 850px) {
+    .trauma9 {
+        display: none;
+    }
+}
+
+
